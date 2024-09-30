@@ -34,7 +34,7 @@ AtliQ Motors, a leading automotive company in North America, plans to introduce 
 - Leverage government subsidies to boost sales.
 
 ## Live Dashboard
-Explore the interactive Power BI dashboard here: [Live Dashboard](https://app.powerbi.com/groups/me/reports/0c5f9c86-6f4d-4d43-814a-020a93e925d6/035cf18d6db9c8e08bb0?experience=power-bi)
+Explore the interactive Power BI dashboard here: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDk2M2M5MjUtNGU2Ni00OGIxLWEyNjctMmE3ZjAxMGM1OGE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Project Structure
 - **Dashboard:** Power BI dashboard files and visualizations.
