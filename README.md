@@ -12,12 +12,11 @@ AtliQ Motors, a leading automotive company in North America, plans to introduce 
 
 ## Dataset and Tools
 ### Data Sources
-- **Codebasics Data Source:** Available on the Codebasics website.
+- **Codebasics Data Source:** Available on the Codebasics website [Codebasics Data Source](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 - **Vahan Sewa Platform:** Publicly accessible vehicle registration data.
 
 ### Tools Used
 - **Power BI:** Data visualization and dashboard creation.
-- **Python:** Preliminary analysis and insights.
 
 ## Data Cleaning
 - **Duplication Removal:** Checked and removed duplicate records.
